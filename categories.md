@@ -14,3 +14,7 @@ Improperly configured MCP servers or clients can create vulnerabilities.
 
 ## 5 Confused Deputy
 This is a classic security problem where an application is tricked into using its authority to perform an action on behalf of an attacker. AI model being tricked into performing a malicious action.
+
+## 6 Broken authentication
+
+## 7 Injection
