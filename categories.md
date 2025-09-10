@@ -1,4 +1,11 @@
+# MCP Top 10
 
+
+
+## Common
+
+
+## Dedicated
 
 ## 1 Prompt Injection
 This is a major risk where an attacker manipulates the AI model by injecting malicious input.
@@ -18,3 +25,13 @@ This is a classic security problem where an application is tricked into using it
 ## 6 Broken authentication
 
 ## 7 Injection
+
+## Server Spoofing
+
+## Context/Data Poisoning
+
+## Token Theft
+
+## Cross-Server Attacks
+
+## Session Hijacking
